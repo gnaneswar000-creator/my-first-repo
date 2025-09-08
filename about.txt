@@ -1,0 +1,4 @@
+name : yalla gnaneswar
+course : bsc(data  science)
+
+ Github is used for storing  the project in a resporitory
